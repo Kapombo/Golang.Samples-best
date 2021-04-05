@@ -1,4 +1,4 @@
-# Google Cloud Platform Go Samples
+# Google Cloud Platform Go Samples Adding this to commit
 
 [![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
